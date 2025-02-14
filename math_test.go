@@ -1,5 +1,8 @@
+package math
+
 import "testing"
 
+// Teste da função Soma
 func TestSoma(t *testing.T) {
 	total := Soma(15, 15)
 
